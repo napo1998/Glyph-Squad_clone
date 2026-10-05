@@ -7,3 +7,4 @@ onnx
 onnxruntime
 transformers
 soundfile
+imageio-ffmpeg
